@@ -13,7 +13,7 @@
 **Highlights**:
 - High-recall model trained on NSDUH data (2011–2017)
 - Logistic regression AORs for risk factors like gender, parental involvement, and age
-📎 [View Project](https://github.com/yourusername/mdsei-prediction)
+📎 [View Project](https://github.com/beryl09/ML-Project)
 
 ---
 
