@@ -27,12 +27,12 @@
 
 ---
 
-### 📊 3. Health Behavior Analysis in South New Jersey
+### 📊 3. Health Behavior Analysis in New Jersey
 **Goal**: Explore patterns of smoking, alcohol use, and healthcare access using public health data.  
 **Highlights**:
 - Data visualizations with Plotly & Folium
 - Identified high-risk counties for targeted interventions  
-📎 [View Project](https://github.com/yourusername/nj-health-analysis)
+📎 [View Project](https://github.com/beryl09/GIS/blob/main/Copy_of_PS5.ipynb)
 
 ---
 
@@ -41,7 +41,7 @@
 **Highlights**:
 - GeoPandas mapping of NJ counties
 - Seaborn heatmaps and Plotly scatterplots
-📎 [View Project](https://github.com/yourusername/nj-crime-analysis)
+📎 [View Project](https://github.com/beryl09/GIS/blob/main/Copy_of_PS5.ipynb)
 
 ---
 
@@ -50,7 +50,7 @@
 **Highlights**:
 - Two-way ANOVA on race, age, and gender
 - Found no significant predictors — suggesting deeper social/environmental factors  
-📎 [View Project](https://github.com/yourusername/campus-violence-analysis)
+📎 [View Project](https://github.com/beryl09/Statistical-Analysis)
 
 ---
 
@@ -60,7 +60,7 @@
 - ResNet-18 model + LIME for brand prediction
 - 87.72% accuracy on test set
 - Visual explanations for Adidas stripes, Nike swoosh, and Converse design  
-📎 [View Project](https://github.com/yourusername/shoe-brand-classifier)
+📎 [View Project](https://github.com/ruc-practical-ai/fall-2024-final-project-beryl09/blob/main/notebooks/finalproject.ipynb)
 
 ---
 
@@ -71,7 +71,7 @@ Python, R, PyTorch, Scikit-learn, ResNet, GradCAM, LIME, SQL, GeoPandas, Folium,
 
 ## 🔗 Connect with Me
 - 📧 Email: ochiengberyl09@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/beryl-ochieng](https://linkedin.com/in/beryl-ochieng)  
+- 🔗 LinkedIn: [linkedin.com/in/beryl-ochieng](https://www.linkedin.com/in/beryl-ochieng67/)  
 - 💻 GitHub: [github.com/beryl09](https://github.com/beryl09)
 
 ---
