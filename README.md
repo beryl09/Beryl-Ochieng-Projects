@@ -17,13 +17,13 @@
 
 ---
 
-### 🫁 2. Lung Cancer Classification with ResNet-18
+### 🫁 2. Lung Cancer Classification with Deep Learning
 **Goal**: Classify lung CT scans into cancer subtypes using transfer learning.  
 **Highlights**:
 - ResNet-18 fine-tuned on medical image dataset
 - Achieved 88.57% test accuracy
 - Grad-CAM for transparent explainability  
-📎 [View Project](https://github.com/yourusername/lung-cancer-classification)
+📎 [View Project](https://github.com/beryl09/Independent-study/blob/main/tumordetect/Final_Project.ipynb)
 
 ---
 
