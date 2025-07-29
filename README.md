@@ -2,14 +2,16 @@
 
 👩🏽‍🔬 Data Scientist | Machine Learning Engineer | Mathematician  
 📍 Expertise in Healthcare AI, Mental Health Analytics, Public Policy, and Retail Image Classification  
-🔬 4+ years of experience working on real-world projects using machine learning, deep learning, and statistical analysis
+🔬 3+ years of experience working on real-world projects using machine learning, deep learning, and statistical analysis
 
 ---
 
 ## 🔍 Featured Projects
 
 ### 🧠 1. Mental Health Prediction (MDSEI Classifier)
+
 **Goal**: Identify adolescents at risk of Major Depressive Episode and Impairment (MDSEI) using logistic regression and random forest.  
+
 **Highlights**:
 - High-recall model trained on NSDUH data (2011–2017)
 - Logistic regression AORs for risk factors like gender, parental involvement, and age
@@ -37,7 +39,9 @@
 ---
 
 ### 🚔 4. Crime & Property Rates Mapping in NJ
-**Goal**: Analyze violent and property crime trends using geospatial data.  
+
+**Goal**: Analyze violent and property crime trends using geospatial data.
+
 **Highlights**:
 - GeoPandas mapping of NJ counties
 - Seaborn heatmaps and Plotly scatterplots
@@ -46,7 +50,9 @@
 ---
 
 ### 📐 5. Statistical Analysis of Campus Violence
-**Goal**: Evaluate demographic predictors of violence in campus housing using ANOVA.  
+
+**Goal**: Evaluate demographic predictors of violence in campus housing using ANOVA. 
+
 **Highlights**:
 - Two-way ANOVA on race, age, and gender
 - Found no significant predictors — suggesting deeper social/environmental factors  
@@ -55,7 +61,9 @@
 ---
 
 ### 👟 6. Shoe Brand Classification (Adidas, Converse, Nike)
-**Goal**: Classify shoe images using deep learning and explainability tools.  
+
+**Goal**: Classify shoe images using deep learning and explainability tools. 
+
 **Highlights**:
 - ResNet-18 model + LIME for brand prediction
 - 87.72% accuracy on test set
@@ -64,7 +72,15 @@
 
 ---
 
+### ✈️ 7. U.S. Flight Route Visualization (2015) 
+
+Visualized top 1,000 U.S. airline routes by volume using static and interactive maps. Cleaned and geocoded route data, calculated travel distances, and identified major hubs.
+
+🔗 [View Project](https://github.com/beryl09/Visualization)
+
+
 ## 🧰 Tools & Skills
+
 Python, R, PyTorch, Scikit-learn, ResNet, GradCAM, LIME, SQL, GeoPandas, Folium, Seaborn, Plotly, ANOVA, Logistic Regression, Tableau, Power BI
 
 ---
