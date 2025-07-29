@@ -81,7 +81,7 @@ Visualized top 1,000 U.S. airline routes by volume using static and interactive 
 
 ## 🧰 Tools & Skills
 
-Python, R, PyTorch, Scikit-learn, ResNet, GradCAM, LIME, SQL, GeoPandas, Folium, Seaborn, Plotly, ANOVA, Logistic Regression, Tableau, Power BI
+Python, R, PyTorch, Scikit-learn, ResNet, GradCAM, LIME, SQL, GeoPandas, Folium, Seaborn, Plotly, ANOVA, Logistic Regression, Tableau, Power BI, TensorFlow
 
 ---
 
